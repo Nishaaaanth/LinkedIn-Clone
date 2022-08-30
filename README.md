@@ -1,3 +1,3 @@
-# LinkedIn.github.io
+#LinkedIn Clone
 
-Link: http://nishanth.me/linkedIn-clone/
+'''Link: http://nishanth.me/linkedIn-clone/'''
